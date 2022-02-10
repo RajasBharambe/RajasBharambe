@@ -7,6 +7,8 @@ I am an *Machine Learning Enthusiast!*
 - 🌱 I’m currently learning ML,DSA,Python
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajasBharambe&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajasBharambe&theme=gruvbox_duo)](https://github.com/anuraghazra/github-readme-stats)
+| <img src="https://github-readme-stats.vercel.app/api?username=RajasBharambe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajasBharambe&theme=blueberry_duo"/> |
+| ------------| ------------- |
+
