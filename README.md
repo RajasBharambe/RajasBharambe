@@ -1,7 +1,7 @@
 ### Hi there 👋, It's me Rajas Bharambe!
 
 
-I am an Machine Learning Enthusiast!
+I am an *Machine Learning Enthusiast!*
 
 - 🔭 I’m currently working on my Skills
 - 🌱 I’m currently learning ML,DSA,Python
