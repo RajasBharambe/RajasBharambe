@@ -11,4 +11,4 @@ I am an *Machine Learning Enthusiast!*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajasBharambe&theme=gruvbox_duo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
+
