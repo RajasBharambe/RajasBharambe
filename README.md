@@ -6,7 +6,6 @@ I am an *Machine Learning Enthusiast!*
 - 🔭 I’m currently working on my Skills
 - 🌱 I’m currently learning ML,DSA,Python
 
-## Github Stats
-| <img src="https://github-readme-stats.vercel.app/api?username=RajasBharambe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readmestreakstats.herokuapp.com/?user=RajasBharambe&theme=blueberry_duo"/> |
-| ------------| ------------- |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajasBharambe&theme=dark)](https://git.io/streak-stats)
+
 
