@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=RajasBharambe&color=yellow&style=plastic)
-### Hi there 👋, It's me Rajas Bharambe!
+## Hi there 👋, It's me Rajas Bharambe!
 
 
 I am an *Machine Learning Enthusiast!*
