@@ -4,7 +4,7 @@
 
 I am an *Machine Learning Enthusiast!*
 
-- 🔭 I’m currently SY student 
+- 🔭 I’m currently SY(CS) student 
 - 🌱 I’m currently learning and implementing ML,DSA,Python
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajasBharambe&theme=vue)](https://git.io/streak-stats)
