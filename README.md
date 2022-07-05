@@ -4,6 +4,9 @@
 
 I am an *Machine Learning Enthusiast!*
 
+I'M NOT A GREAT PROGRAMMER,
+I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS
+
 - 🔭 I’m currently TY(CS) student 
 - 🌱 I’m currently learning and implementing ML,DSA,Python
 
