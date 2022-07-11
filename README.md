@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=RajasBharambe&color=blue&style=plastic)
 ## Hi there 👋, It's me Rajas Bharambe! A Technofreak !
 
-
  I am an Machine Learning Enthusiast!
 
 <i>*I'M NOT A GREAT PROGRAMMER,
