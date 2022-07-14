@@ -3,7 +3,7 @@
 ![trip](https://user-images.githubusercontent.com/89535670/178936044-51542935-49d3-49a3-8dba-72c29cd49fde.jpg)
 
 
-## Hi there 👋, It's me Rajas Bharambe! A Technofreak !
+## Hi there 👋, It's me Rajas Bharambe! A Technofreak!
 
  I am an Machine Learning Enthusiast!
 
@@ -13,7 +13,7 @@ I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS*<i>.
 - 🔭 I’m currently TY(CS) student 
 - 🌱 I’m currently learning and implementing ML,DSA,Python
 
-Currently stucked <a href="https://rajasbharambe.github.io/rajasbharambe.com/">here</a>.
+##### Currently stucked <a href="https://rajasbharambe.github.io/rajasbharambe.com/">here</a>.
  
  ### Languages and Tools: 
 
