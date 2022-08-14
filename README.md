@@ -32,8 +32,9 @@ I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS*<i>.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajasBharambe&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajasBharambe&layout=compact&theme=tokyonight_duo)](https://github.com/anuraghazra/github-readme-stats)           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajasBharambe&show_icons=true&=tokyonight_duo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajasBharambe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajasBharambe&show_icons=true&theme=tokyonight)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RajasBharambe&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
