@@ -8,7 +8,7 @@
  ## I am an Machine Learning Enthusiast!
 
 <i><b>*I'M NOT A GREAT PROGRAMMER,
-I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS*<b<i>.
+I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS*<b><i>.
 
 - 🔭 I’m currently Third Year (CS) student.
 - 🌱 I’m currently learning and implementing ML,DSA,Python.
