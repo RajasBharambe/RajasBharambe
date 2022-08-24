@@ -2,7 +2,6 @@
 
 # Hi there 👋, It's me Rajas Bharambe! A Technofreak!
 
-
  ## I am an Machine Learning Enthusiast!
 
 <i><b>" I'M NOT A GREAT PROGRAMMER,
