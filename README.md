@@ -8,6 +8,8 @@ I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS "<b><i>
 
 - 🔭 I’m currently Third Year (CS) student.
 - 🌱 I’m currently learning and implementing ML,DSA,Python.
+-    💬 You can Ask me about the topics of my interested fields and for that you're thinking how can you reach to me? right!!😅
+   [![dev.to badge](https://img.shields.io/badge/linkedin-sunilGudivada-blue)](https://www.linkedin.com/in/rajas-bharambe-0b8a87208/)
 
 ### Currently stucked <a href="https://rajasbharambe.github.io/rajasbharambe.com/">here</a>!
  
