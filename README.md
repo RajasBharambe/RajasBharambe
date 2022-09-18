@@ -10,7 +10,7 @@ I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS "<b><i>
 -    💬 You can Ask me about the topics of my interested fields and for that you're thinking how can you reach to me? right!!😅
    [![dev.to badge](https://img.shields.io/badge/linkedin-RajasBharambe-blue)](https://www.linkedin.com/in/rajas-bharambe-0b8a87208/)
 
-### Currently stucked <a href="https://rajasbharambe.github.io/rajasbharambe.com/">here</a>!
+### Currently stucked <a href="https://rajasbharambe.github.io">here</a>!
  
  ### Languages and Tools: 
 
