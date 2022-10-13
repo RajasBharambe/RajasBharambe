@@ -8,21 +8,33 @@ I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS "<b><i>
 -    💬 You can Ask me about the topics of my interested fields and for that you're thinking how can you reach to me? right!!😅
    [![dev.to badge](https://img.shields.io/badge/linkedin-RajasBharambe-blue)](https://www.linkedin.com/in/rajas-bharambe-0b8a87208/)
 ### Currently stucked <a href="https://rajasbharambe.github.io">here</a>!
- ### Languages and Tools: 
- <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
- />
-<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
- <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br>
-<br>
-<br>
-<br>
+
+ <h3 align="left"> Languages and Tools:  </h3>
+<p align="left">
+ 
+ <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+ <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+
+
+
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RajasBharambe&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RajasBharambe&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajasBharambe&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajasBharambe&show_icons=true&theme=github_dark)
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
