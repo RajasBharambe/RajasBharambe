@@ -28,7 +28,6 @@ I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS "<b><i>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajasBharambe&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajasBharambe&show_icons=true&theme=github_dark)
 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <div align="center">
     <a href="https://git.io/typing-svg">
