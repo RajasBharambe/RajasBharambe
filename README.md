@@ -22,8 +22,6 @@ I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS "<b><i>
  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RajasBharambe&theme=tokyonight_duo)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajasBharambe&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajasBharambe&show_icons=true&theme=github_dark)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
