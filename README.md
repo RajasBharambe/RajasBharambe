@@ -3,8 +3,8 @@
  ## I am Tech Enthusiast !
 <i><b>" I'M NOT A GREAT PROGRAMMER,
 I'M A JUST A GOOD PROGRAMMER WITH GREAT HABITS "<b><i>
-- 🔭 I’m currently working as an Intern at CDAC Pune.
-- 🌱 I’m currently learning and implementing ML,DSA,Python.
+- 🔭 I worked at CDAC as an AI/ML Intern.
+- 🌱 I’m currently learning and implementing ML,DL,Python.
 -    💬 You can Ask me about the topics of my interested fields and for that you're thinking how can you reach to me? right!!😅
    [![dev.to badge](https://img.shields.io/badge/linkedin-RajasBharambe-blue)](https://www.linkedin.com/in/rajas-bharambe-0b8a87208/)
 
