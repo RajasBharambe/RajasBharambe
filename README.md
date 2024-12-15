@@ -1,4 +1,8 @@
-![trip](https://user-images.githubusercontent.com/89535670/178936044-51542935-49d3-49a3-8dba-72c29cd49fde.jpg)
+![github-header-image](https://github.com/RajasBharambe/RajasBharambe/blob/34d53acbca634c52589e9259698329445e313547/github-header-image.png)
+
+
+
+
 # Hi there 👋, It's me Rajas Bharambe! A Technofreak!
  ## I am Tech Enthusiast !
 <i><b>" I'M NOT A GREAT PROGRAMMER, 
